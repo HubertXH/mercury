@@ -1,0 +1,2 @@
+# mercury
+该工程主要使用Slf4j的MDC功能实现单应用内的日志TraceId
